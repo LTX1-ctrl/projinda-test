@@ -1,3 +1,3 @@
-# projinda-test
+# Projinda Test Repository
 
-Test test test
+Test, test, and test.
